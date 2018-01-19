@@ -1,0 +1,2 @@
+star = 'star'
+print star
